@@ -1,2 +1,5 @@
 .DS_Store
 Course Project 1/data/
+.RData
+.Rhistory
+.Rapp.history
