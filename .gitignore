@@ -1,6 +1,9 @@
-DS_Store
+.DS_Store
+Course Project 1/.DS_Store
 Course Project 1/data/
+Course Project 2/.DS_Store
 Course Project 2/data/
 .RData
 .Rhistory
 .Rapp.history
+.gitignore
